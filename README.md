@@ -41,7 +41,7 @@ This project uses [uv](https://docs.astral.sh/uv/) for dependency management and
 
 ```bash
 # clone the repository
-git clone <repository-url>
+git clone https://github.com/KITCatModels/CARD.git
 cd card
 
 # install dependencies into a local virtual environment
