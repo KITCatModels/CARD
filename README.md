@@ -1,4 +1,5 @@
 # CARD – Computer Aided Reactor Design
+
 [![DOI](https://zenodo.org/badge/1330736885.svg)](https://doi.org/10.5281/zenodo.21888110)
 
 A collection of Jupyter notebooks for teaching **Computer Aided Reactor Design (CARD)** to chemical engineering students. The material accompanies a series of training sessions that introduce students to Python-based modeling and simulation of chemical reactors, using open-source scientific software.
